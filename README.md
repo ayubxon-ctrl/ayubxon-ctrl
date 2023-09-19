@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ayubxo
+- 👋 Hi, I’m Ayubxon
 - 👀 I’m interested in flutter applications
 - 🌱 I’m currently learning fluttar evelopers
 - 💞️ I’m looking to collaborate with you
