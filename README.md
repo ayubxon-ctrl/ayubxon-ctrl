@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayubxon
 - 👀 I’m interested in flutter applications
-- 🌱 I’m currently learning fluttar evelopers
+- 🌱 I’m currently learning fluttar developers
 - 💞️ I’m looking to collaborate with you
 - 📫 How to reach me this profession
 
